@@ -1,0 +1,14 @@
+layout_spectrum: 0.7741935
+typography_spectrum: 0.750896
+color:
+  saturation: 0.8599657
+  lightness: 0.07814562
+  brandStrength: 0.7249538
+  rhythmicContrast: 0.6477612
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: IoT news
