@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[IoT news]]></title>
+        <description><![CDATA[IoT news]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 18:44:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vivoactive HR wearable]]></title>
+            <description><![CDATA[<article><h1>Vivoactive HR wearable</h1><p>On Friday Garmin announced their new Vivoactive HR & Vivofit 3. As you'll remember, my post was rather short and pretty limited in terms of content (just one pic!). I promised that come around Sunday, I'd get some hands-on time with the units and then post back on my thoughts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8457b4bed80b0ba628b46910769d8c06529c6cc.jpg"></article>]]></description>
+            <link>undefinedvivoactive-hr-wearable/index.html</link>
+            <guid isPermaLink="false">5d302bed-4e78-4cd0-a578-4a2205106483</guid>
+            <pubDate>Tue, 15 Mar 2016 18:44:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
